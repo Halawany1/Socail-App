@@ -2,7 +2,7 @@
 
 Welcome to the Social App repository! This Flutter app is designed to provide a comprehensive social networking experience, featuring Firebase authentication, Cloud Firestore for data storage, Firebase Storage for image storage, validation, shared preferences, icons, animations, and more.
 
-#### [Video Demo](#https://www.linkedin.com/posts/mohamed-elhalawany-329314220_socail-app-a-flutter-app-made-using-activity-7113898662946091009-ub71?utm_source=share&utm_medium=member_desktop)
+#### [Video](https://www.linkedin.com/posts/mohamed-elhalawany-329314220_socail-app-a-flutter-app-made-using-activity-7113898662946091009-ub71?utm_source=share&utm_medium=member_desktop)
 
 ## Table of Contents
 1. [Overview](#overview)
