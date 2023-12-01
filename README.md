@@ -64,10 +64,10 @@ The Social App is a Flutter-based social networking application that leverages F
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Halawany1/Ecommerce_App.git
+   git clone https://github.com/Halawany1/Socail-App.git
 1. Navigate to the project directory:
     ```bash
-   cd Ecommerce_App
+   cd Socail-App
 2. Install dependencies:
     ```bash
    flutter pub get
